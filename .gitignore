@@ -1,0 +1,6 @@
+# Environment and project config files
+.vscode/
+bin/
+obj/
+*.csproj
+*.sln
